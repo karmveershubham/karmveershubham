@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karmveershubham&label=Profile%20views&color=0e75b6&style=flat" alt="karmveershubham" /> </p>
 
-- 
+- 🌱 I’m currently learning **Advanced JAVA**
 
-- 🌱 I’m currently learning **JAVA**
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/karmveershubham/karmveershubham/projects)
 
-- 👨‍💻 All of my projects are available at [MY Projects](https://github.com/karmveershubham/karmveershubham/projects)
+- 💬 Ask me about **Python, JAVA, Data Analysis**
 
 - 📫 How to reach me **S.karmveer1201@gmail.com**
+
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1AUjOtP_34GhrIhxwGCkstXeq50dzLD1m/view?usp=sharing)
 
 <br> </br>
 
@@ -20,9 +22,9 @@
 <a href="https://www.linkedin.com/in/shubham-karmveer-2a4363208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-karmveer-2a4363208/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/karmveer.shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/karmveer.shubham" height="30" width="40" /></a>
 <a href="https://instagram.com/karmveer_shubham12?utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://instagram.com/karmveer_shubham12?utm_source=qr" height="30" width="40" /></a>
-<a href="/ttps://www.codechef.com/users/s_karmveer1201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/s_karmveer1201" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17444170/shubham-karmveer?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://stackoverflow.com/users/17444170/shubham-karmveer?tab=profile" height="30" width="40" /></a>
-  
+<a href="https://www.youtube.com/channel/uc49hlqf6uhdtlfsgj12riqa/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc49hlqf6uhdtlfsgj12riqa/featured" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/s_karmveer1201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/s_karmveer1201" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/s_karmveer1201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/s_karmveer1201" height="30" width="40" /></a>
 </p>
 
 <br> </br>
