@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **S.karmveer1201@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1AUjOtP_34GhrIhxwGCkstXeq50dzLD1m/view?usp=sharing)
+<!--- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1AUjOtP_34GhrIhxwGCkstXeq50dzLD1m/view?usp=sharing)-->
 
 <br> </br>
 
@@ -36,10 +36,10 @@
 <p align ="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karmveershubham&show_icons=true&locale=en&layout=compact" alt="karmveershubham" /></p>
 
 <br></br>
-
+<!--
 <p align ="left" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karmveershubham&show_icons=true&locale=en" alt="karmveershubham" /></p>
 
 <br></br>
 
 <p align = "left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karmveershubham&" alt="karmveershubham" /></p>
-
+-->
