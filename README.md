@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Karmveer</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karmveershubham&label=Profile%20views&color=0e75b6&style=flat" alt="karmveershubham" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karmveershubham&label=Profile%20views&color=0e75b6&style=flat" alt="karmveershubham" /> </p>
 
 - 🌱 I’m currently learning **WEB Designing**
 
@@ -40,5 +40,13 @@
 
 <br></br>
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="https://www.github.com/karmveershubham"><img src="https://github-readme-stats.vercel.app/api?username=karmveershubham&show_icons=true&bg_color=00000000)" alt="Dikshatomarr's GitHub stats" /></a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karmveershubham&show_icons=true&bg_color=00000000)" />
+
 <p align = "left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karmveershubham&" alt="karmveershubham" /></p>
--->
+
