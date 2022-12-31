@@ -47,7 +47,7 @@
 <br>
 
 ### Badges
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karmveershubham&show_icons=true&locale=en&layout=compact" alt="karmveershubham" />
 <a href="https://www.github.com/karmveershubham"><img src="https://github-readme-stats.vercel.app/api?username=karmveershubham&show_icons=true&bg_color=#282A2D)" alt="Shubham GitHub stats" /></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karmveershubham&show_icons=true&bg_color=#282A2D)" />
 
