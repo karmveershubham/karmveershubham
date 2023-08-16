@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/solicitoushubh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shubhsarcaasm?t=vf8szkm-72qiz_mwpf1apa&s=08" height="30" width="40" /></a>
+  <a href="https://twitter.com/KarmveerShubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/KarmveerShubham?t=vf8szkm-72qiz_mwpf1apa&s=08" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/shubham-karmveer-2a4363208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-karmveer-2a4363208/" height="30" width="40" /></a>
   <a href="https://www.facebook.com/karmveer.shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/karmveer.shubham" height="30" width="40" /></a>
   <a href="https://instagram.com/karmveer_shubham12?utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://instagram.com/karmveer_shubham12?utm_source=qr" height="30" width="40" /></a>
