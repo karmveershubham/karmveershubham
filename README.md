@@ -49,9 +49,9 @@
 <br>
 
 ### Badges
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=karmveershubham&show_icons=true&locale=en&layout=compact" alt="karmveershubham"/>
-<img src="https://github-readme-stats.vercel.app/api?username=karmveershubham&show_icons=true&bg_color=#282A2D)" alt="Shubham GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karmveershubham&show_icons=true&bg_color=#282A2D)" />
+<div >
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=karmveershubham&show_icons=true&locale=en&layout=compact" alt="karmveershubham" width=30% height =30%/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=karmveershubham&show_icons=true&bg_color=#282A2D)" alt="Shubham GitHub stats"  width=40%  height=40%/><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karmveershubham&show_icons=true&bg_color=#282A2D)"  width=40% height=40% />
 </div>
 
