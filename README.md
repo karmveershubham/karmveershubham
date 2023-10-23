@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/karmveershubham/karmveershubham/projects)
 
-- 💬 Ask me about **Python, JAVA, Data Analysis**
+- 💬 Ask me about **Python, Data Analysis**
 
 - 📫 How to reach me **S.karmveer1201@gmail.com**
 
